@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\jt\source\repos\leetcode\aoti\consoleapplication1\consoleapplication1\consoleapplication1.cpp(43): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\jt\source\repos\leetcode\aoti\consoleapplication1\consoleapplication1\consoleapplication1.cpp(46): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  ConsoleApplication1.vcxproj -> C:\Users\JT\source\repos\LEETCODE\AOTI\ConsoleApplication1\Debug\ConsoleApplication1.exe

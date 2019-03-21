@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+c:\users\jt\source\repos\leetcode\fzint\consoleapplication1\consoleapplication1\consoleapplication1.cpp(17): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+c:\users\jt\source\repos\leetcode\fzint\consoleapplication1\consoleapplication1\consoleapplication1.cpp(46): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\jt\source\repos\leetcode\fzint\consoleapplication1\consoleapplication1\consoleapplication1.cpp(61): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\jt\source\repos\leetcode\fzint\consoleapplication1\consoleapplication1\consoleapplication1.cpp(74): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  ConsoleApplication1.vcxproj -> C:\Users\JT\source\repos\LEETCODE\FZINT\ConsoleApplication1\Debug\ConsoleApplication1.exe

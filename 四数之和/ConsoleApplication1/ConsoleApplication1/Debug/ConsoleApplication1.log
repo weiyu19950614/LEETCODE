@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\jt\source\repos\leetcode\sszh3\consoleapplication1\consoleapplication1\consoleapplication1.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\jt\source\repos\leetcode\sszh3\consoleapplication1\consoleapplication1\consoleapplication1.cpp(82): warning C4018: “>”: 有符号/无符号不匹配
+  ConsoleApplication1.vcxproj -> C:\Users\JT\source\repos\LEETCODE\SSZH3\ConsoleApplication1\Debug\ConsoleApplication1.exe

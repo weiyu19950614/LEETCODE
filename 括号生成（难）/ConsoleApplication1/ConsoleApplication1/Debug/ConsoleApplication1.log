@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+c:\users\jt\source\repos\leetcode\khsc\consoleapplication1\consoleapplication1\consoleapplication1.cpp(36): warning C4715: “generateneParthesis2”: 不是所有的控件路径都返回值
+  ConsoleApplication1.vcxproj -> C:\Users\JT\source\repos\LEETCODE\KHSC\ConsoleApplication1\Debug\ConsoleApplication1.exe

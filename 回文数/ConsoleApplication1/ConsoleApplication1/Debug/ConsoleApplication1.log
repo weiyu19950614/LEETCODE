@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\jt\source\repos\leetcode\hwint\consoleapplication1\consoleapplication1\consoleapplication1.cpp(56): warning C4305: “初始化”: 从“__int64”到“int”截断
+c:\users\jt\source\repos\leetcode\hwint\consoleapplication1\consoleapplication1\consoleapplication1.cpp(56): warning C4309: “初始化”: 截断常量值
+  ConsoleApplication1.vcxproj -> C:\Users\JT\source\repos\LEETCODE\HWINT\ConsoleApplication1\Debug\ConsoleApplication1.exe
